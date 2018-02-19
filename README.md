@@ -8,7 +8,7 @@
   <script src="bigint.js"></script>
 ```
 ## Node.js
-### https://www.npmjs.com/package/bigintjs
+### https://www.npmjs.com/package/node-math-bigint
 ```bash
   npm install node-math-bigint --save
 ```
