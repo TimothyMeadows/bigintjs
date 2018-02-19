@@ -10,7 +10,7 @@
 ## Node.js
 ### https://www.npmjs.com/package/bigintjs
 ```bash
-  npm install bigint.js --save
+  npm install math-bigint --save
 ```
 ## Source
 ```bash
