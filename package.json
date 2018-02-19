@@ -1,5 +1,5 @@
 {
-  "name": "node-bigint",
+  "name": "math-bigint",
   "version": "5.5.0",
   "description": "BigInt.js based on original work by Leemon Baird",
   "main": "bigint.js",
