@@ -2,6 +2,20 @@
 ### Big Integer Library v. 5.5
 * based on original by Leemon Baird (www.leemon.com)
 
+# Installing
+## Browser
+```html
+  <script src="bigint.js"></script>
+```
+## Node.js
+### https://www.npmjs.com/package/bigintjs
+```bash
+  npm install bigintjs --save
+```
+## Source
+```bash
+  git clone https://github.com/TimothyMeadows/bigintjs
+```
 # Methods
 #### bigInt  add(x,y)
 > return (x+y) for bigInts x and y.
