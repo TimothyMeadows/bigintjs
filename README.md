@@ -1,4 +1,4 @@
-# BigInt.js
+# bigint.js
 ### Big Integer Library v. 5.5
 * based on original by Leemon Baird (www.leemon.com)
 
@@ -10,7 +10,7 @@
 ## Node.js
 ### https://www.npmjs.com/package/bigintjs
 ```bash
-  npm install bigintjs --save
+  npm install bigint.js --save
 ```
 ## Source
 ```bash
