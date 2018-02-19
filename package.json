@@ -1,0 +1,19 @@
+{
+  "name": "bigintjs",
+  "version": "5.5.0",
+  "description": "BigInt.js based on original work by Leemon Baird",
+  "main": "bigint.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimothyMeadows/bigintjs.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TimothyMeadows/bigintjs/issues"
+  },
+  "homepage": "https://github.com/TimothyMeadows/bigintjs#readme"
+}
